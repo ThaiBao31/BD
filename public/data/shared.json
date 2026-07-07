@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-07T12:24:42.968Z",
+  "updatedAt": "2026-07-07T12:29:17.457Z",
   "players": [
     {
       "id": "f25eaac5-77e5-48f2-a928-f343d4dfc311",
@@ -110,13 +110,13 @@
       "assignments": [
         null,
         null,
-        null,
+        "3850abbe-e986-41e0-ab97-81081d9ac2d7",
         null,
         null,
         null,
         null
       ]
     },
-    "updatedAt": "2026-07-07T12:24:41.015Z"
+    "updatedAt": "2026-07-07T12:29:16.473Z"
   }
 }
