@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-07T12:29:17.457Z",
+  "updatedAt": "2026-07-07T14:17:36.877Z",
   "players": [
     {
       "id": "f25eaac5-77e5-48f2-a928-f343d4dfc311",
@@ -109,7 +109,7 @@
       "formationId": "1-2-3-1",
       "assignments": [
         null,
-        null,
+        "0a9d6c99-6c10-4ca4-8e3f-445356d5cc01",
         "3850abbe-e986-41e0-ab97-81081d9ac2d7",
         null,
         null,
@@ -117,6 +117,6 @@
         null
       ]
     },
-    "updatedAt": "2026-07-07T12:29:16.473Z"
+    "updatedAt": "2026-07-07T14:17:07.549Z"
   }
 }
