@@ -54,3 +54,20 @@ export function overallRating(stats: PlayerStats): number {
   const values = Object.values(stats);
   return Math.round(values.reduce((a, b) => a + b, 0) / values.length);
 }
+
+export type FormationId = '1-2-3-1' | '2-2-2' | '3-2-1' | '2-3-1' | '3-1-2' | '1-3-2';
+
+export type TeamSide = 'teamA' | 'teamB';
+
+export type SlotRole = 'gk' | 'def' | 'mid' | 'fwd';
+
+export interface TeamSetup {
+  formationId: FormationId;
+  assignments: (string | null)[];
+}
+
+export interface MatchSetup {
+  teamA: TeamSetup;
+  teamB: TeamSetup;
+  updatedAt: string;
+}
