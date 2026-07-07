@@ -110,3 +110,8 @@ export function loadPlayers(): Player[] {
 export function savePlayers(players: Player[]): void {
   localStorage.setItem(STORAGE_KEY, JSON.stringify(players));
 }
+
+export function migratePlayersFromJson(raw: unknown): Player[] {
+  if (!Array.isArray(raw)) return [];
+  return raw.map(migratePlayer).filter((p): p is Player => p !== null);
+}

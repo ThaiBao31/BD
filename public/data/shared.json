@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "updatedAt": "2026-01-01T00:00:00.000Z",
+  "players": [],
+  "matchSetup": {
+    "teamA": {
+      "formationId": "1-2-3-1",
+      "assignments": [null, null, null, null, null, null, null]
+    },
+    "teamB": {
+      "formationId": "1-2-3-1",
+      "assignments": [null, null, null, null, null, null, null]
+    },
+    "updatedAt": "2026-01-01T00:00:00.000Z"
+  }
+}
