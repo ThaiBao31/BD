@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-09T10:13:32.669Z",
+  "updatedAt": "2026-07-09T10:33:05.606Z",
   "players": [
     {
       "id": "f25eaac5-77e5-48f2-a928-f343d4dfc311",
@@ -60,18 +60,18 @@
       "id": "9d085801-1e9d-4608-8100-5d74627dbad7",
       "name": "Ronalvanh",
       "stats": {
-        "pace": 71,
-        "shooting": 99,
-        "passing": 99,
-        "dribbling": 99,
-        "defending": 51,
+        "pace": 55,
+        "shooting": 65,
+        "passing": 80,
+        "dribbling": 60,
+        "defending": 59,
         "physical": 99
       },
-      "leftFoot": 5,
+      "leftFoot": 1,
       "rightFoot": 5,
-      "skillMoves": 5,
+      "skillMoves": 2,
       "createdAt": "2026-07-07T12:04:26.124Z",
-      "updatedAt": "2026-07-07T12:22:09.770Z"
+      "updatedAt": "2026-07-09T10:33:04.190Z"
     },
     {
       "id": "0a9d6c99-6c10-4ca4-8e3f-445356d5cc01",
@@ -134,6 +134,6 @@
         null
       ]
     },
-    "updatedAt": "2026-07-09T10:13:31.888Z"
+    "updatedAt": "2026-07-09T10:33:04.992Z"
   }
 }
