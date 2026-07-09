@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-09T10:06:27.756Z",
+  "updatedAt": "2026-07-09T10:06:57.816Z",
   "players": [
     {
       "id": "f25eaac5-77e5-48f2-a928-f343d4dfc311",
@@ -128,12 +128,12 @@
         null,
         "0a9d6c99-6c10-4ca4-8e3f-445356d5cc01",
         "3850abbe-e986-41e0-ab97-81081d9ac2d7",
-        "c7867539-f3f5-40c5-b654-84b75919b546",
+        null,
         null,
         null,
         null
       ]
     },
-    "updatedAt": "2026-07-09T10:06:26.911Z"
+    "updatedAt": "2026-07-09T10:06:56.863Z"
   }
 }
