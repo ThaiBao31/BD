@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-09T10:36:46.314Z",
+  "updatedAt": "2026-07-09T10:39:41.086Z",
   "players": [
     {
       "id": "f25eaac5-77e5-48f2-a928-f343d4dfc311",
@@ -108,6 +108,23 @@
       "skillMoves": 5,
       "createdAt": "2026-07-09T01:33:34.467Z",
       "updatedAt": "2026-07-09T10:07:30.231Z"
+    },
+    {
+      "name": "Lương Daovid",
+      "stats": {
+        "pace": 65,
+        "shooting": 65,
+        "passing": 80,
+        "dribbling": 79,
+        "defending": 30,
+        "physical": 40
+      },
+      "leftFoot": 2,
+      "rightFoot": 5,
+      "skillMoves": 1,
+      "id": "ed980eb4-2d8b-474b-a889-a3b81a773d17",
+      "createdAt": "2026-07-09T10:39:39.565Z",
+      "updatedAt": "2026-07-09T10:39:39.565Z"
     }
   ],
   "matchSetup": {
@@ -135,6 +152,6 @@
         null
       ]
     },
-    "updatedAt": "2026-07-09T10:36:45.798Z"
+    "updatedAt": "2026-07-09T10:39:40.366Z"
   }
 }
