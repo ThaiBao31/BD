@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-08T07:39:38.287Z",
+  "updatedAt": "2026-07-09T01:33:37.291Z",
   "players": [
     {
       "id": "f25eaac5-77e5-48f2-a928-f343d4dfc311",
@@ -90,6 +90,23 @@
       "skillMoves": 1,
       "createdAt": "2026-07-07T12:11:19.053Z",
       "updatedAt": "2026-07-07T12:12:41.709Z"
+    },
+    {
+      "name": "HoangBM",
+      "stats": {
+        "pace": 50,
+        "shooting": 80,
+        "passing": 50,
+        "dribbling": 1,
+        "defending": 50,
+        "physical": 20
+      },
+      "leftFoot": 1,
+      "rightFoot": 2,
+      "skillMoves": 1,
+      "id": "30ae4edd-9e17-4d9d-a5c1-a8cb93b5bf57",
+      "createdAt": "2026-07-09T01:33:34.467Z",
+      "updatedAt": "2026-07-09T01:33:34.467Z"
     }
   ],
   "matchSetup": {
@@ -117,6 +134,6 @@
         "c7867539-f3f5-40c5-b654-84b75919b546"
       ]
     },
-    "updatedAt": "2026-07-08T07:39:40.518Z"
+    "updatedAt": "2026-07-09T01:33:35.270Z"
   }
 }
