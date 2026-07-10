@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-10T08:24:28.667Z",
+  "updatedAt": "2026-07-10T08:26:28.712Z",
   "players": [
     {
       "id": "c7867539-f3f5-40c5-b654-84b75919b546",
@@ -195,7 +195,7 @@
       ]
     },
     "teamB": {
-      "formationId": "3-1-2",
+      "formationId": "2-3-1",
       "assignments": [
         null,
         "0a9d6c99-6c10-4ca4-8e3f-445356d5cc01",
@@ -206,6 +206,6 @@
         null
       ]
     },
-    "updatedAt": "2026-07-10T08:24:27.059Z"
+    "updatedAt": "2026-07-10T08:26:29.446Z"
   }
 }
