@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-10T08:03:12.852Z",
+  "updatedAt": "2026-07-10T08:08:05.198Z",
   "players": [
     {
       "id": "c7867539-f3f5-40c5-b654-84b75919b546",
@@ -127,6 +127,7 @@
       "updatedAt": "2026-07-09T10:45:32.017Z"
     },
     {
+      "id": "e73ded19-82f1-4450-a91e-b6ac7e9f9a1a",
       "name": "Tui tên Duy",
       "stats": {
         "pace": 60,
@@ -139,7 +140,6 @@
       "leftFoot": 1,
       "rightFoot": 1,
       "skillMoves": 2,
-      "id": "e73ded19-82f1-4450-a91e-b6ac7e9f9a1a",
       "createdAt": "2026-07-10T08:03:11.150Z",
       "updatedAt": "2026-07-10T08:03:11.150Z"
     }
@@ -164,11 +164,11 @@
         "0a9d6c99-6c10-4ca4-8e3f-445356d5cc01",
         null,
         null,
-        null,
+        "ed980eb4-2d8b-474b-a889-a3b81a773d17",
         null,
         null
       ]
     },
-    "updatedAt": "2026-07-10T08:03:11.954Z"
+    "updatedAt": "2026-07-10T08:08:03.071Z"
   }
 }
