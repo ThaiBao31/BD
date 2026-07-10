@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-10T07:56:30.522Z",
+  "updatedAt": "2026-07-10T07:57:08.011Z",
   "players": [
     {
       "id": "c7867539-f3f5-40c5-b654-84b75919b546",
@@ -125,6 +125,23 @@
       "skillMoves": 2,
       "createdAt": "2026-07-09T10:45:32.017Z",
       "updatedAt": "2026-07-09T10:45:32.017Z"
+    },
+    {
+      "name": "Seowwi",
+      "stats": {
+        "pace": 50,
+        "shooting": 1,
+        "passing": 10,
+        "dribbling": 5,
+        "defending": 80,
+        "physical": 80
+      },
+      "leftFoot": 1,
+      "rightFoot": 1,
+      "skillMoves": 2,
+      "id": "2aac3aae-af29-4f9c-b1e5-5557fb45980d",
+      "createdAt": "2026-07-10T07:57:05.405Z",
+      "updatedAt": "2026-07-10T07:57:05.405Z"
     }
   ],
   "matchSetup": {
@@ -152,6 +169,6 @@
         null
       ]
     },
-    "updatedAt": "2026-07-10T07:56:28.309Z"
+    "updatedAt": "2026-07-10T07:57:06.207Z"
   }
 }
