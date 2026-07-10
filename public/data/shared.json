@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-10T07:59:53.516Z",
+  "updatedAt": "2026-07-10T08:00:05.109Z",
   "players": [
     {
       "id": "c7867539-f3f5-40c5-b654-84b75919b546",
@@ -93,7 +93,7 @@
     },
     {
       "id": "ed980eb4-2d8b-474b-a889-a3b81a773d17",
-      "name": "Lương Daovid",
+      "name": "Lương David",
       "stats": {
         "pace": 65,
         "shooting": 65,
@@ -106,7 +106,7 @@
       "rightFoot": 5,
       "skillMoves": 1,
       "createdAt": "2026-07-09T10:39:39.565Z",
-      "updatedAt": "2026-07-10T07:59:50.045Z"
+      "updatedAt": "2026-07-10T08:00:01.970Z"
     },
     {
       "id": "e76c31f6-2e3c-4c3e-8940-9bb0b521ed0f",
@@ -152,6 +152,6 @@
         null
       ]
     },
-    "updatedAt": "2026-07-10T07:59:50.855Z"
+    "updatedAt": "2026-07-10T08:00:02.778Z"
   }
 }
