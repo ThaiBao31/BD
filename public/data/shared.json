@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-10T07:59:28.886Z",
+  "updatedAt": "2026-07-10T07:59:53.516Z",
   "players": [
     {
       "id": "c7867539-f3f5-40c5-b654-84b75919b546",
@@ -99,14 +99,14 @@
         "shooting": 65,
         "passing": 80,
         "dribbling": 79,
-        "defending": 50,
-        "physical": 80
+        "defending": 30,
+        "physical": 52
       },
       "leftFoot": 2,
       "rightFoot": 5,
       "skillMoves": 1,
       "createdAt": "2026-07-09T10:39:39.565Z",
-      "updatedAt": "2026-07-10T07:58:47.503Z"
+      "updatedAt": "2026-07-10T07:59:50.045Z"
     },
     {
       "id": "e76c31f6-2e3c-4c3e-8940-9bb0b521ed0f",
@@ -152,6 +152,6 @@
         null
       ]
     },
-    "updatedAt": "2026-07-10T07:59:27.792Z"
+    "updatedAt": "2026-07-10T07:59:50.855Z"
   }
 }
