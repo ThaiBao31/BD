@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-10T08:00:05.109Z",
+  "updatedAt": "2026-07-10T08:03:12.852Z",
   "players": [
     {
       "id": "c7867539-f3f5-40c5-b654-84b75919b546",
@@ -125,6 +125,23 @@
       "skillMoves": 2,
       "createdAt": "2026-07-09T10:45:32.017Z",
       "updatedAt": "2026-07-09T10:45:32.017Z"
+    },
+    {
+      "name": "Tui tên Duy",
+      "stats": {
+        "pace": 60,
+        "shooting": 1,
+        "passing": 10,
+        "dribbling": 10,
+        "defending": 70,
+        "physical": 99
+      },
+      "leftFoot": 1,
+      "rightFoot": 1,
+      "skillMoves": 2,
+      "id": "e73ded19-82f1-4450-a91e-b6ac7e9f9a1a",
+      "createdAt": "2026-07-10T08:03:11.150Z",
+      "updatedAt": "2026-07-10T08:03:11.150Z"
     }
   ],
   "matchSetup": {
@@ -152,6 +169,6 @@
         null
       ]
     },
-    "updatedAt": "2026-07-10T08:00:02.778Z"
+    "updatedAt": "2026-07-10T08:03:11.954Z"
   }
 }
