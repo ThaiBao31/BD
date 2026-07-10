@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-10T08:49:42.227Z",
+  "updatedAt": "2026-07-10T08:54:15.205Z",
   "players": [
     {
       "id": "c7867539-f3f5-40c5-b654-84b75919b546",
@@ -68,11 +68,11 @@
         "defending": 1,
         "physical": 1
       },
-      "leftFoot": 5,
-      "rightFoot": 5,
-      "skillMoves": 5,
+      "leftFoot": 1,
+      "rightFoot": 1,
+      "skillMoves": 1,
       "createdAt": "2026-07-07T12:11:19.053Z",
-      "updatedAt": "2026-07-09T07:49:55.309Z"
+      "updatedAt": "2026-07-10T08:54:15.529Z"
     },
     {
       "id": "30ae4edd-9e17-4d9d-a5c1-a8cb93b5bf57",
@@ -207,6 +207,6 @@
         null
       ]
     },
-    "updatedAt": "2026-07-10T08:49:41.487Z"
+    "updatedAt": "2026-07-10T08:54:16.334Z"
   }
 }
