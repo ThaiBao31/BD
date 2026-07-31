@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-31T05:00:16.639Z",
+  "updatedAt": "2026-07-31T05:03:23.180Z",
   "players": [
     {
       "id": "c7867539-f3f5-40c5-b654-84b75919b546",
@@ -184,7 +184,7 @@
   ],
   "matchSetup": {
     "teamA": {
-      "formationId": "3-2-1",
+      "formationId": "2-2-2",
       "assignments": [
         "1fbd668a-0a2c-4fdb-8c5d-4a681cca9642",
         "e76c31f6-2e3c-4c3e-8940-9bb0b521ed0f",
@@ -199,7 +199,7 @@
       "formationId": "1-3-2",
       "assignments": [
         null,
-        "0a9d6c99-6c10-4ca4-8e3f-445356d5cc01",
+        null,
         null,
         null,
         null,
@@ -207,6 +207,6 @@
         null
       ]
     },
-    "updatedAt": "2026-07-31T05:00:36.339Z"
+    "updatedAt": "2026-07-31T05:03:43.470Z"
   }
 }
